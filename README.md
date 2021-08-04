@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @xbral
-- 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning ReactJS, NodeJS, AdonisJS, MS SQL Server
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, dev!
 
-<!---
-xbral/xbral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Developer working for Unimed Varginha. Lately, I'm developing many projects with React, NodeJS, AdonisJS, MS SQL Server, C#. I also love sharing knowledge.
+
+If you would like to discuss these things, you can send me an email or send me a DM on Instagram (the best way to talk with me). I'm looking forward to connecting with you. 👋🏻
